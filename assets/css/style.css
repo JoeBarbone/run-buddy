@@ -167,6 +167,7 @@ section {
     padding: 0 100px 20px 100px;
     display: inline-block;
     border-bottom: 3px solid;
+    color: #024e76
 }
 
 .primary-border {
@@ -217,4 +218,21 @@ section {
 
 .text-right {
     text-align: right;
+}
+
+.contact {
+    background-color: #024e76;
+    text-align: center;
+    float: left;
+    overflow: auto;
+}
+
+.contact h2 {
+    color: #fce138;
+}
+
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+    float: left;
 }
