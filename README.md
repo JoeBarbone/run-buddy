@@ -17,3 +17,6 @@ https://JoeBarbone.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Joseph Barbone
+
+
+### ©️2019 Run Buddy, Inc
