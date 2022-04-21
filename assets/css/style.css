@@ -204,6 +204,7 @@ section {
 
 .step:not(:last-child) {
     border-bottom: 1px solid #39a6b2;
+    /* This will show a border for each child EXCEPT the last one */
 }
 
 .step h3 {
